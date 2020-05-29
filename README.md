@@ -59,4 +59,4 @@ This material is constantly updated for you, so stay tuned! ... (e.g. this means
 
 test 
 
-Cloned Successfully Moni!!!
+Cloned Successfully !!!
